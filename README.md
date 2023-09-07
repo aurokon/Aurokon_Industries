@@ -1,2 +1,2 @@
-# Aurokon_Industries
+# Aurokon Industries
 Mod for Icarus
