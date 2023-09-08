@@ -1,29 +1,29 @@
 # Aurokon Industries
-Big shoutout to CK_Dexterhaven for helping me with this and another shoutout to Iaanp for his guide! Between that guide and CK's help,
-I was able to get my first working mod completed and functioning!
-In theory, this mod shouldn't need updated every week. Once I have the expansion, I'll work on adding kits for the new building materials.
 
-This is a pretty basic mod. New workshop tab has 5 prefab kits. The kits only contain building pieces. No benches.
-Each kit can be researched and purchased with Ren. 
+A big shoutout to CK_Dexterhaven for their invaluable assistance, and another shoutout to Iaanp for their helpful guide! Thanks to the combination of CK's guidance and Iaanp's tutorial, I was able to successfully create my first working mod, which is now fully functional.
 
-*Each kit contains the following:
-*Frame x16
-*Walls x18
-*Ramps x16
-*Floors x16
-*Reinforced Doors x2
-*Angled Walls x16
-*Beams x16
+In theory, this mod should not require frequent updates. However, I plan to work on incorporating kits for the new building materials once I have access to the expansion.
 
+## Mod Description
+This is a straightforward mod that introduces a new workshop tab featuring 5 prefab kits. These kits exclusively contain building pieces and do not include any benches. Each kit is available for research and can be purchased with Ren.
 
-# Installation Instructions:
+Each kit contains the following items:
+- Frame x16
+- Walls x18
+- Ramps x16
+- Floors x16
+- Reinforced Doors x2
+- Angled Walls x16
+- Beams x16
 
-1) Open Steam
-2) Navigate to your games library
-3) Right click on Icarus and move the point down to Manage
-4) Select "Browse Local Files"
-5) In the new window that pops up, open the Icarus folder, then the content folder, then the paks folder
-6) If you don't have a mods folder inside the paks folder, just create it and name it mods
-7) Place Aurokon Industries.pak into this folder
+## Installation Instructions
 
-The preferred method would be to use IMM to extract the mod and then install it and is highly suggested if you're using multiple mods.
+1. Open Steam.
+2. Navigate to your games library.
+3. Right-click on "Icarus" and select "Manage."
+4. Choose "Browse Local Files."
+5. In the new window that appears, open the "Icarus" folder, followed by the "content" folder, and then the "paks" folder.
+6. If the "mods" folder does not exist within the "paks" folder, create it.
+7. Place the "Aurokon Industries.pak" file into the "mods" folder.
+
+For the best installation experience, it is recommended to use IMM (Icarus Mod Manager) to extract and install the mod, especially if you are using multiple mods.
