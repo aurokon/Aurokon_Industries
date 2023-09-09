@@ -11,7 +11,7 @@
         "exmodz": "https://github.com/aurokon/Aurokon_Industries/blob/main/Aurokon%20Industries.EXMODZ"
       },
       "imageURL": "A direct download URL to an image that will be displayed in the mod list (optional)",
-      "readmeURL": "https://github.com/aurokon/Aurokon_Industries/blob/main/README.md"
+      "readmeURL": "https://raw.githubusercontent.com/aurokon/Aurokon_Industries/main/README.md"
     }
   ]
 }
