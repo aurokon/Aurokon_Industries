@@ -7,13 +7,13 @@ In theory, this mod should not require weekly updates. However, I plan to work o
 This is a straightforward mod that introduces a new workshop tab featuring 5 prefab kits. These kits exclusively contain building pieces and do not include any benches. Each kit is available for research and can be purchased with Ren.
 
 Each kit contains the following items:
-- Frame x16
-- Walls x18
-- Ramps x16
-- Floors x16
+- Frame x20
+- Walls x24
+- Ramps x20
+- Floors x20
 - Reinforced Doors x2
-- Angled Walls x16
-- Beams x16
+- Angled Walls x10
+- Beams x20
 
 ## Installation Instructions
 
