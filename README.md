@@ -1,7 +1,10 @@
 # Aurokon Industries
 
+Updates are coming soon.
+
+
 A big shoutout to **CK_Dexterhaven** for his invaluable assistance, and another shoutout to **Iaanp** for their helpful guide! Thanks to the combination of CK's guidance and Iaanp's tutorial, I was able to successfully create my first fully functional mod.
-In theory, this mod should not require weekly updates. However, I plan to work on incorporating kits for the new building materials once I buy the expansion.
+In theory, this mod should not require weekly updates.
 
 ## Mod Description
 This is a straightforward mod that introduces a new workshop tab featuring 5 prefab kits. These kits exclusively contain building pieces and do not include any benches. Each kit is available for research and can be purchased with Ren.
